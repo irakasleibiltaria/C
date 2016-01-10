@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main () {
+main() {
 	/* lehen programa */
 
 	char izena [20];

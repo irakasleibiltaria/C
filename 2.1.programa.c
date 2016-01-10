@@ -2,7 +2,8 @@
 
 #define PI 3.14159
 
-main () {
+main() {
+	
 	float r, azalera, perimetroa;
 
 	printf("Sakatu erradioaren neurria\n");
